@@ -12,6 +12,9 @@ public static void main(String[] args) {
 	
 	System.out.println("andhrapapers");
 	System.out.println("telangana papers");
+	System.out.println("telangana papers");
+	System.out.println("chennai");
+	System.out.println("tamilnadu");
 	
 	
 
