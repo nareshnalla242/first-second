@@ -11,7 +11,7 @@ public static void main(String[] args) {
 	name1.add("enadu");
 	
 	System.out.println("andhrapapers");
-	
+	System.out.println("telangana papers");
 	
 	
 
